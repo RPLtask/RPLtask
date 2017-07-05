@@ -1,0 +1,1 @@
+create view viewstatus  as select nama, if(status_p=1,'pelanggan','-') as status_p from pelanggan

@@ -1,0 +1,9 @@
+<script>
+function getidkamar(){
+var lokasi = document.getElementById('kombolokasi').value;
+var nokamar = document.getElementById('nomor_kamar').value;
+//alert(lokasi);
+//alert(nomorkamar);
+document.getElementById('idkamar').value = lokasi+'-'+nokamar;
+}
+</script>

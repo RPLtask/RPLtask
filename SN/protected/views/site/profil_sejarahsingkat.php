@@ -1,0 +1,14 @@
+<style>
+.tulisan { font: 13px Arial, Helvetica, sans-serif; color:#555453; line-height:18px; }
+</style>
+<table  border="0" align="center" cellpadding="0" cellspacing="0">
+<td width="597" class="tulisan">
+<p>PT Pahala Kencana didirikan di Kudus sebuah kota kecil di Jawa Tengah pada tahun 1976. Bergerak di bidang usaha Bus Antar Kota Antar Propinsi dengan melayani rute Kudus-Jakarta PP dan Solo-Jakarta PP. Situasi pergerakan bisnis yang dinamis memacu Pahala Kencana untuk terus mengembang wilayah operasi pemasarannya hingga menjangkau beberapa kota besar dan kecil di P. Sumatra, Jawa, Madura, Bali, dan Lombok.</p>
+<p>Pada tahun 2000 terbukanya kesempatan pengembangan bisnis di bidang usaha transportasi angkutan darat memaksa manajemen memindahkan kantor pusat PT Pahala Kencana yang pada saat itu berada di Kudus ke Jakarta.</p>
+<p>Pada tahun 1993, PT Pahala Kencana mengembangkan usaha Jasa Titipan Pahala Kencana yang pada awal usahanya pengiriman barang Jasa Titipan Pahala Kencana hanya melayani tujuan-tujuan sesuai rute operasi bus, mengandalkan sisa ruang bagasi penumpang, dan mengoperasikan sedikit kendaraan kecil sebagai moda antar kiriman barang. Saat ini Jasa Titipan Pahala Kencana yang telah berubah nama menjadi Pahala Express melayani pengiriman ke lebih dari 200 kota besar dan kecil di seluruh Indonesia dan lebih dari 200 negara tujuan dengan mengandalkan lebih dari 100 unit armada pengiriman barang.</p>
+<p>Pada tahun yang sama PT Pahala Kencana mendirikan Biro Perjalanan Wisata PT BPW Pahala Kencana yang kemudian lebih dikenal dengan nama PT Pahala Tours &amp; Travel. Melayani penyelenggaraan wisata, domestik &amp; international ticketing, dan MICE.<br /><br />Pada tahun 1997, PT Pahala Kencana memasuki bidang usaha transportasi dalam kota dengan mengoperasikan sejumlah armada Bus Kota yang melayani beberapa rute padat di wilayah Jakarta.</p>
+<p>Pada tahun 1998 PT Pahala Kencana mengembangkan bidang usaha transportasi ke pelayanan Bus Antar Kota Dalam Propinsi yang melayani rute jarak dekat antar kota dalam propinsi.</p>
+<p>Pada tahun 2000 PT Pahala Kencana mulai merambah bidang usaha transportasi Angkutan Pariwisata yang meliputi penyedian bus pariwisata dan kendaraan sewa.</p>
+<p>Pada tahun 2004 kebijakan Gubernur Jakarta tentang penataan ulang sistem transportasi dalam kota Jakarta berdampak pada keikutsertaan Pahala Kencana dalam program Busway.<br /><br />Pada tahun 2005 dampak tarif murah pada bisnis penerbangan Indonesia menjadikan tantangan baru. PT Pahala Kencana mengembangkan usaha penjualan tiket pesawat udara yang berkonsentrasi pada penjualan tiket penerbangan dengan tarif murah dengan mendirikan PT Nata Tours.</p>          </td>
+      </tr>
+    </table></td>

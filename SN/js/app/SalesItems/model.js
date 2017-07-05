@@ -1,0 +1,41 @@
+Ext.define('SalesItems',{
+    extend:'Ext.data.Model',
+    autoLoad:true,
+    fields:[		{
+        name:'id',
+        type:'integer'
+    },
+    {
+        name:'sale_id',
+        type:'integer'
+    },
+    {
+        name:'item_id',
+        type:'integer'
+    },
+    {
+        name:'item_name',
+        type:'string'
+    },
+    {
+        name:'quantity_purchased',
+        type:'integer'
+    },
+    {
+        name:'item_tax',
+        type:'integer'
+    },
+    {
+        name:'item_price',
+        type:'integer'
+    },
+    {
+        name:'item_discount',
+        type:'integer'
+    },
+    {
+        name:'item_total_cost',
+        type:'integer'
+    },
+    ]
+});
